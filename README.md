@@ -1,5 +1,4 @@
 # 關於我
-Personal introduction
 大家好，很高興你的來訪。
 
 ### 工作技能（視任務使用）
