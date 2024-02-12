@@ -18,4 +18,3 @@
 - 雲端架構類：Azure, Azure databricks, Azure DataFactory
 - 全文檢索類：Elasticsearch、redis
 - 版本控制類：GitHub
-- 影音轉檔類：ffmpeg
