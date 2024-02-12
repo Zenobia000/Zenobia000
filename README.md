@@ -7,7 +7,8 @@
 - 資料可視化：Tableau、JMP Pro 16、PowerBI
 - 網頁技術類：JavaScript、jQuery、HTML、CSS
 - 資料庫設計類：MySQL、MariaDB、RDBMS、MongoDB
-- 神經網路類：預訓練模型 BERT 與 GPT 家族、Tensorflow、Pytorch
+- 神經網路類：Tensorflow、Pytorch
+- 自然語言處理: 預訓練模型 BERT 與 GPT 家族、Langchain、LLamaIndex
 - 開發維運類：Docker, MLflow, Azure Devops
 - 雲端架構類：Azure, Azure databricks, Azure DataFactory
 - 全文檢索類：Elasticsearch、redis
