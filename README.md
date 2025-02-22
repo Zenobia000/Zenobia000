@@ -1,5 +1,3 @@
-<img width=”100%” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=Zenobia000&theme=vue-dark&line_height=22&layout=compact&hide=less" />
-
 # 關於我 - Sunny
 出身電資領域與製造軟硬體整合背景。理論出身，工程扎根 <br>
 5年導體研發整合經驗。4年以上實務數據分析(EDA)以及製造端智慧轉型的經驗，做過 0-1 的產品研發與導入量產，也實際經歷過建廠到維運的完整流程。
