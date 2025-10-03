@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sunny | 桑尼資料科學 > 你的學伴 ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Semiconductor+%7C+Data+Science+%7C+AI+Engineer;From+0+to+1%2C+Making+Ideas+Happen+%F0%9F%9A%80;10+Years+Teaching+%7C+Sharing+Knowledge+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Semiconductor+%7C+Data+Science+%7C+AI+Engineer;From+0+to+1%2C+Making+Ideas+Happen+%F0%9F%9A%80;10+Years+Teaching+%7C+Sharing+Knowledge+%F0%9F%93%9A;AI+Vibe+%7C+Coding+is+All+You+Need+%F0%9F%A4%96" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-yang-weng-13b71215b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/datasunnie)
