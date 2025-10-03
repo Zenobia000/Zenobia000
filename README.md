@@ -1,20 +1,188 @@
-# 關於我 - Sunny
-出身電資領域與製造軟硬體整合背景。理論出身，工程扎根 <br>
-6年半導體研發整合經驗。4年以上實務數據分析(EDA)以及製造端智慧轉型的經驗，做過 0-1 的產品研發與導入量產，也實際經歷過建廠到維運的完整流程。
-具有強大的問題解決能力和學習力，能在巨大壓力下透過數據挖掘技術解決問題。有過3-5人管理經驗，具備出色的溝通技巧和專案管理能力。並能利用深入的領域知識結合數據科學提出系統性的解決方案。<br>
-10 年補教經驗，興趣是分享新知，與職涯諮詢，協助迷茫的大人找到自己的那份熱情
+<div align="center">
 
-<font size=4>key words: 半導體、大數據應用、數位轉型、專案管理、AI實務整合 </font>
+# 👋 Hi, I'm Sunny | 數據煉金術師 ⚡
 
-### 工作技能（視任務使用）
-- 作業系統類：Ubuntu、Windows、Mac OS
-- 程式設計類：Python、pySpark、SparkSQL、Java、Node.js、Django、Flask
-- 資料可視化：Tableau、JMP Pro 16、PowerBI
-- 網頁技術類：JavaScript、jQuery、HTML、CSS
-- 資料庫設計類：MySQL、MariaDB、RDBMS、MongoDB
-- 神經網路類：Tensorflow、Pytorch
-- 自然語言處理: 預訓練模型 BERT 與 GPT 家族、Langchain、LLamaIndex
-- 開發維運類：Docker, MLflow, Azure Devops
-- 雲端架構類：Azure, Azure databricks, Azure DataFactory
-- 全文檢索類：Elasticsearch、redis
-- 版本控制類：GitHub
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Semiconductor+%7C+Data+Science+%7C+AI+Engineer;From+0+to+1%2C+Making+Ideas+Happen+%F0%9F%9A%80;10+Years+Teaching+%7C+Sharing+Knowledge+%F0%9F%93%9A" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+## 🎬 AIGC Video Demo | AI 影片生成展示
+
+<div align="center">
+
+https://github.com/Zenobia000/Zenobia000/raw/main/AIGC_video_demo_0930.mov
+
+*🤖 Powered by AI | Creative Tech Showcase*
+
+</div>
+
+---
+
+## 💫 About Me
+
+```python
+class DataAlchemist:
+    def __init__(self):
+        self.name = "Sunny"
+        self.role = "Data Scientist & AI Engineer"
+        self.background = {
+            "semiconductor": "6+ years R&D integration",
+            "data_science": "4+ years EDA & Smart Manufacturing",
+            "teaching": "10 years sharing knowledge & career consulting"
+        }
+        self.mindset = "Theory-driven, Engineering-rooted 🌱"
+
+    def expertise(self):
+        return [
+            "🏭 0-to-1 Product Development & Mass Production",
+            "🔧 Factory Setup to Operations (Full Lifecycle)",
+            "📊 Data Mining under Extreme Pressure",
+            "👥 3-5 Team Management & Project Leadership",
+            "💡 Systematic Solutions via Domain Knowledge + Data Science"
+        ]
+
+    def passion(self):
+        return "Helping lost souls find their passion 🔥"
+```
+
+---
+
+## 🛠️ Tech Stack | 技術棧
+
+<div align="center">
+
+### 💻 Programming & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-8A2BE2?style=for-the-badge)
+
+### 📊 Data Visualization & BI
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zenobia000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenobia000&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A9FEF7&text_color=C9D1D9" alt="Top Languages" height="170" />
+
+</div>
+
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zenobia000&theme=tokyonight&hide_border=true&background=1A1B27&stroke=A9FEF7&ring=A9FEF7&fire=FF6D00&currStreakLabel=A9FEF7)
+
+</div>
+
+---
+
+## 🎯 Key Highlights
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏭 Industrial Experience
+- ✅ 6 years semiconductor R&D integration
+- ✅ Full factory lifecycle: setup → operation
+- ✅ 0-to-1 product development & mass production
+- ✅ Smart manufacturing transformation
+
+</td>
+<td width="50%">
+
+### 🚀 Technical Leadership
+- ✅ 4+ years data analysis & EDA
+- ✅ Team management (3-5 members)
+- ✅ Project management & cross-functional collaboration
+- ✅ AI/ML integration in production
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 What I Bring to the Table
+
+```mermaid
+mindmap
+  root((Sunny))
+    Semiconductor Expertise
+      R&D Integration
+      Manufacturing
+      Quality Control
+    Data Science
+      Big Data Analytics
+      Machine Learning
+      AI Integration
+    Leadership
+      Team Management
+      Project Execution
+      Digital Transformation
+    Passion
+      Teaching
+      Knowledge Sharing
+      Career Consulting
+```
+
+---
+
+## 🎓 Teaching & Mentoring
+
+> **10 years** of education experience | Helping professionals find their passion
+
+- 📚 Technical training & workshops
+- 💼 Career consulting & guidance
+- 🌱 Helping lost souls discover their direction
+- 🔥 Igniting passion in data science & AI
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+**🌟 Open to collaboration, consulting, and sharing knowledge! 🌟**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+*"From theory to practice, from 0 to 1, making ideas happen!"* 💡
+
+<img src="https://komarev.com/ghpvc/?username=Zenobia000&style=for-the-badge&color=A9FEF7" alt="Profile views" />
+
+</div>
