@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sunny | 數據煉金術師 ⚡
+# 👋 Hi, I'm Sunny | 資料煉金術師 ⚡
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Semiconductor+%7C+Data+Science+%7C+AI+Engineer;From+0+to+1%2C+Making+Ideas+Happen+%F0%9F%9A%80;10+Years+Teaching+%7C+Sharing+Knowledge+%F0%9F%93%9A" alt="Typing SVG" />
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-https://github.com/Zenobia000/Zenobia000/raw/main/AIGC_video_demo_0930.mov
+<img src="AIGC_video_demo_0930.gif" alt="AIGC Video Demo" width="800"/>
 
 *🤖 Powered by AI | Creative Tech Showcase*
 
