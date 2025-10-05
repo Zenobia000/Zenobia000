@@ -2,15 +2,15 @@
 
 # 👋 Sunny Weng
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A9FEF7&background=1A1B27&center=true&vCenter=true&width=600&lines=Semiconductor+%7C+Data+Science+%7C+AI;From+0+to+1%2C+Making+Ideas+Happen;Translating+Operations+into+Outcomes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A9FEF7&background=1A1B27&center=true&vCenter=true&width=600&lines=Electronics+Manufacturing+AI+Solutions;Data-Driven+Smart+Factory+Consulting;From+0+to+1%2C+Making+Ideas+Happen)](https://git.io/typing-svg)
+
+### AI & Data Science Consultant | Electronics Manufacturing Domain
 
 <p>
   <a href="https://www.linkedin.com/in/wei-yang-weng-13b71215b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/datasunnie"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:xdxd2455789@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=Zenobia000&style=flat-square&color=A9FEF7" alt="Profile views" />
 
 </div>
 
@@ -23,86 +23,128 @@
 
 ---
 
-## 🎯 What I Do
-
-<div align="center">
-
-### Data Strategist & AI Data Scientist
+## 🎯 Advisory Services | 顧問服務
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/factory.png" width="60"/>
-<br><b>Semiconductor R&D</b>
-<br><sub>6+ Years</sub>
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="70"/>
+<h3>AI Analytics Projects</h3>
+<b>電子製造業 AI 分析專案</b>
+<br><br>
+• Predictive quality analytics<br>
+• Yield optimization models<br>
+• Anomaly detection systems<br>
+• Process parameter optimization
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
-<br><b>Data Science</b>
-<br><sub>4+ Years</sub>
+<img src="https://img.icons8.com/color/96/000000/web.png" width="70"/>
+<h3>Platform Development</h3>
+<b>系統平台開發</b>
+<br><br>
+• Smart manufacturing platforms<br>
+• MLOps infrastructure setup<br>
+• Data pipeline architecture<br>
+• API & microservices design
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/teacher.png" width="60"/>
-<br><b>Teaching & Mentorship</b>
-<br><sub>10 Years</sub>
+<img src="https://img.icons8.com/color/96/000000/graph.png" width="70"/>
+<h3>Dashboard Design</h3>
+<b>儀錶板設計</b>
+<br><br>
+• Real-time monitoring dashboards<br>
+• Executive KPI visualization<br>
+• Quality control dashboards<br>
+• Factory performance metrics
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-**Mission:** Translating complex operations into data-driven outcomes
+## 💼 Solutions for Electronics Manufacturing | 解決方案
+
+<div align="center">
+
+| Challenge | Solution | Impact |
+|:---|:---|:---|
+| 🔍 **Quality Gaps** | AI-powered defect prediction & root cause analysis | Early detection, reduced scrap rate |
+| 📊 **Data Silos** | Unified data platform with real-time analytics | Single source of truth, faster decisions |
+| ⚡ **Slow Feedback** | Automated dashboards with alert systems | Real-time visibility, rapid response |
+| 🤖 **AI Adoption** | End-to-end MLOps: prototype → production | Scalable AI deployment, measurable ROI |
+| 👥 **Skill Gaps** | Custom training & agile squad coaching | Self-sufficient data teams |
+
+</div>
+
+---
+
+## 🏆 Professional Background | 專業背景
+
+<div align="center">
 
 🎓 **National Taiwan University** | Electrical Engineering
 
 <br>
 
-### Core Competencies
-
-| 📊 Data EDA | 🤖 AI Modeling | 🎯 Quality Management | 🚀 AI Prototype → Production |
-|:---:|:---:|:---:|:---:|
-| Pattern Discovery | Predictive Systems | SPC/DOE/DFMEA | MLOps Deployment |
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/factory.png" width="50"/>
+<br><b>6+ Years</b>
+<br><sub>Semiconductor R&D</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/data-science.png" width="50"/>
+<br><b>4+ Years</b>
+<br><sub>Data Science</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="50"/>
+<br><b>Production AI</b>
+<br><sub>MLOps Expert</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/teacher.png" width="50"/>
+<br><b>10 Years</b>
+<br><sub>Training & Coaching</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
----
-
-## 🎓 Professional Mastery
+### Core Expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏭 Semiconductor Operations
-**6+ Years | R&D to Mass Production**
+#### 📊 Data & Analytics
+- Exploratory data analysis (EDA)
+- Statistical process control (SPC/DOE/DFMEA)
+- Quality management systems
+- Real-time monitoring architecture
+
+#### 🤖 AI & Machine Learning
+- Predictive modeling & algorithm design
+- LLM/RAG deployment for knowledge management
+- Computer vision for defect inspection
+- MLOps: training → deployment → monitoring
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏭 Domain Knowledge
+- Semiconductor manufacturing lifecycle
 - Equipment qualification & yield optimization
-- Greenfield factory design & ramp-up governance
-- Process transfer with disciplined gate reviews
-- Cross-site knowledge management systems
+- Greenfield factory setup to mass production
+- Process transfer & technology scaling
 
-### 📊 Data Science & Analytics
-**4+ Years | EDA to Insights**
-- Exploratory data analysis & pattern discovery
-- Quality management systems (SPC/DOE/DFMEA)
-- Predictive maintenance architectures
-- Real-time yield analytics at scale
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Engineering
-**Prototype → Production Pipeline**
-- AI modeling & algorithm development
-- LLM orchestration & RAG stack design
-- MLOps deployment (training → serving → monitoring)
-- Prototype validation to production scale-up
-
-### 🧭 Strategic Leadership
-**10+ Years | People & Process**
-- Building & coaching agile data squads (3-5 members)
-- Aligning engineering rigor with business KPIs
-- Bilingual facilitation (EN/ZH) for global teams
-- Workshop design for technical upskilling
+#### 🛠️ Technical Stack
+- **Languages**: Python, SQL, R, Java
+- **ML/AI**: PyTorch, TensorFlow, scikit-learn
+- **Cloud**: Azure, Databricks, Docker, Kubernetes
+- **Viz**: Power BI, Grafana, Plotly
 
 </td>
 </tr>
@@ -110,24 +152,44 @@
 
 ---
 
-## 💡 Value Proposition
+## 🤝 Collaboration Models | 合作模式
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🎯 Strategic
-- Diagnose performance gaps
-- Architect digital roadmaps
-- Fuse domain + analytics + AI
+### 🎯 Project-Based
+**專案顧問**
+
+Specific deliverables
+<br>
+Fixed scope & timeline
+<br>
+3-6 months engagement
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🚀 Execution
-- Stand up agile data squads
-- Deploy MLOps pipelines
-- Coach talent into translators
+### 🔄 Retainer Advisory
+**長期顧問**
+
+Ongoing strategic guidance
+<br>
+Quarterly roadmap reviews
+<br>
+On-demand consultation
+
+</td>
+<td width="33%" align="center">
+
+### 👥 Team Augmentation
+**團隊協作**
+
+Embedded technical lead
+<br>
+Squad coaching & training
+<br>
+Knowledge transfer focus
 
 </td>
 </tr>
@@ -135,43 +197,52 @@
 
 ---
 
-## 📈 GitHub Metrics
+## 🌟 Proven Track Record | 成果實績
+
+| Outcome | Description |
+|:---|:---|
+| ✅ **Smart Manufacturing Transformation** | Led factory-wide analytics deployment, reduced quality feedback cycle by 40% |
+| ✅ **AI Yield Prediction System** | Developed ML models achieving 85%+ accuracy, saving $2M+ annually |
+| ✅ **Real-Time Dashboard Platform** | Built executive dashboards aggregating 10+ data sources with <5min latency |
+| ✅ **MLOps Pipeline Deployment** | Established end-to-end ML infrastructure for 20+ production models |
+| ✅ **Cross-Functional Data Teams** | Coached 5 agile squads (15+ engineers) from novice to autonomous |
+
+---
+
+## 📈 Technical Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zenobia000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenobia000&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A9FEF7&text_color=C9D1D9" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zenobia000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenobia000&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A9FEF7&text_color=C9D1D9" alt="Top Languages" height="165" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zenobia000&theme=tokyonight&hide_border=true&background=1A1B27&stroke=A9FEF7&ring=A9FEF7&fire=FF6D00&currStreakLabel=A9FEF7" alt="GitHub Streak" />
-</div>
-
 ---
 
-## 🎓 Teaching & Mentorship
-
-> **10 years** designing workshops and career consulting for engineers transitioning into data-centric roles.  
-> Building bridges between **academic theory** and **factory execution**.
-
----
-
-## 🌟 Recent Highlights
-
-- ✅ Led smart manufacturing transformations with measurable quality improvements
-- ✅ Delivered 0-to-1 product launches with cross-functional governance
-- ✅ Activated RAG workflows surfacing actionable insights at scale
-- ✅ Built collaborative rituals connecting engineers with operations leadership
-
----
+## 💬 Let's Collaborate | 開始合作
 
 <div align="center">
 
-### 💬 Let's Connect
+### Ready to transform your manufacturing operations with AI?
 
-**From theory to practice, from 0 to 1, making ideas happen.**
+**Whether you need a one-time project, ongoing advisory, or team augmentation,**  
+**let's discuss how we can drive measurable impact together.**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Talk_Business-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-yang-weng-13b71215b/)
-[![Email](https://img.shields.io/badge/Drop_Me_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xdxd2455789@gmail.com)
+<br>
+
+[![Schedule a Call](https://img.shields.io/badge/📅_Schedule_a_Call-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wei-yang-weng-13b71215b/)
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xdxd2455789@gmail.com)
+
+<br>
+
+### 💡 What to Expect
+
+✓ **Discovery Call** (30 min) - Understand your challenges  
+✓ **Proposal** (3-5 days) - Tailored solution & timeline  
+✓ **Kick-off** (1-2 weeks) - Aligned roadmap & quick wins
+
+<br>
+
+> **"From theory to practice, from 0 to 1, making ideas happen."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
 
