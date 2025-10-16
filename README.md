@@ -2,7 +2,7 @@
 
 # 👋 Sunny Weng
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A9FEF7&background=1A1B27&center=true&vCenter=true&width=600&lines=Electronics+Manufacturing+AI+Solutions;Data-Driven+Smart+Factory+Consulting;From+0+to+1%2C+Making+Ideas+Happen)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A9FEF7&background=1A1B27&center=true&vCenter=true&width=680&lines=Electronics+Manufacturing+AI+Solutions;Data-Driven+Smart+Factory+Consulting;From+0+to+1%2C+Making+Ideas+Happen)](https://git.io/typing-svg)
 
 ### AI & Data Science Consultant for Electronics Manufacturing
 
@@ -17,7 +17,13 @@ I partner with industry leaders to transform factory operations using data and A
 </div>
 
 <div align="center">
-  <img src="AIGC_video_demo_cinematic.gif" width="80%" />
+  <table width="80%" border="0" cellpadding="10" cellspacing="0" bgcolor="#0D1117" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.5); border: 1px solid #30363d;">
+    <tr>
+      <td align="center">
+        <img src="AIGC_video_demo_cinematic.gif" style="display: block; border-radius: 4px; max-width: 100%;" />
+      </td>
+    </tr>
+  </table>
   <p><i>Powered by Runway - Where technology meets storytelling</i></p>
 </div>
 
@@ -145,7 +151,7 @@ My approach is built on a foundation of a **National Taiwan University** degree 
   <img src="https://github-readme-stats.vercel.app/api?username=Zenobia000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenobia000&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A9FEF7&text_color=C9D1D9" alt="Top Languages" height="165" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zenobia000&theme=tokyonight&hide_border=true&background=1A1B27&stroke=A9FEF7&ring=A9FEF7&fire=FF6D00&currStreakLabel=A9FEF7" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/api/?user=Zenobia000&theme=tokyonight&hide_border=true&background=1A1B27&stroke=A9FEF7&ring=A9FEF7&fire=FF6D00&currStreakLabel=A9FEF7" alt="GitHub Streak" />
 </div>
 
 <div align="center">
