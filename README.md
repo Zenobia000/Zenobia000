@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# 👋 Sunny Weng
+# 👋 Sunny Weng - AI Data Scientist
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A9FEF7&background=1A1B27&center=true&vCenter=true&width=680&lines=Electronics+Manufacturing+AI+Solutions;Data-Driven+Smart+Factory+Consulting;From+0+to+1%2C+Making+Ideas+Happen)](https://git.io/typing-svg)
 
