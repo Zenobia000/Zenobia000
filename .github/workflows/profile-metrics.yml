@@ -1,0 +1,63 @@
+name: Refresh Profile Metrics
+
+on:
+  schedule:
+    - cron: '17 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub overview
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9&show=reviews,prs_merged
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A9FEF7&text_color=C9D1D9
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate contribution streak
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=1A1B27&stroke=A9FEF7&ring=A9FEF7&fire=FF6D00&currStreakLabel=A9FEF7&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate 12-week PR activity
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: python3 scripts/render_pr_activity.py
+
+      - name: Commit refreshed SVG cards
+        shell: bash
+        run: |
+          git add profile/stats.svg profile/top-langs.svg profile/streak.svg profile/pr-activity.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile metrics [skip ci]"
+          git push
