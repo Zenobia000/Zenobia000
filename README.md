@@ -145,13 +145,18 @@ My approach is built on a foundation of a **National Taiwan University** degree 
 
 <div align="center">
   <h2>Technical Contributions</h2>
-</div>
+  <p>Public GitHub activity, updated automatically every day.</p>
+  <a href="https://github.com/Zenobia000?tab=repositories"><img src="./profile/stats.svg" alt="GitHub Overview" width="49%"/></a>
+  <a href="https://github.com/Zenobia000?tab=repositories"><img src="./profile/top-langs.svg" alt="Top Languages" width="49%"/></a>
+  <br/>
+  <a href="https://github.com/Zenobia000?tab=overview"><img src="./profile/streak.svg" alt="Contribution Streak" width="75%"/></a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zenobia000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A9FEF7&icon_color=A9FEF7&text_color=C9D1D9" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenobia000&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=A9FEF7&text_color=C9D1D9" alt="Top Languages" height="165" />
-  <br>
-  <img src="https://streak-stats.vercel.app/api/?user=Zenobia000&theme=tokyonight&hide_border=true&background=1A1B27&stroke=A9FEF7&ring=A9FEF7&fire=FF6D00&currStreakLabel=A9FEF7" alt="GitHub Streak" />
+  <h3>Pull Request Activity — Last 12 Weeks</h3>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AZenobia000+sort%3Acreated-desc"><img src="./profile/pr-activity.svg" alt="Last 12 weeks of public pull requests, opened and merged per week, changed files and code changes" width="95%"/></a>
+  <p>
+    <a href="https://github.com/pulls?q=is%3Apr+author%3AZenobia000+sort%3Acreated-desc">Explore my recent PRs →</a>
+  </p>
+  <sub>Charts count public PRs across repositories. Diff line counts are not a measure of development effort. Generated daily by GitHub Actions.</sub>
 </div>
 
 <div align="center">
