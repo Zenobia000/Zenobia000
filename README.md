@@ -151,12 +151,9 @@ My approach is built on a foundation of a **National Taiwan University** degree 
   <br/>
   <a href="https://github.com/Zenobia000?tab=overview"><img src="./profile/streak.svg" alt="Contribution Streak" width="75%"/></a>
 
-  <h3>Pull Request Activity — Last 12 Weeks</h3>
-  <a href="https://github.com/pulls?q=is%3Apr+author%3AZenobia000+sort%3Acreated-desc"><img src="./profile/pr-activity.svg" alt="Last 12 weeks of public pull requests, opened and merged per week, changed files and code changes" width="95%"/></a>
-  <p>
-    <a href="https://github.com/pulls?q=is%3Apr+author%3AZenobia000+sort%3Acreated-desc">Explore my recent PRs →</a>
-  </p>
-  <sub>Charts count public PRs across repositories. Diff line counts are not a measure of development effort. Generated daily by GitHub Actions.</sub>
+  <h3>Pull Request Activity — Daily (Last 30 Days)</h3>
+  <img src="./profile/pr-activity.svg" alt="Daily numbers of public pull requests created and merged over the past 30 days" width="95%"/>
+  <p><sub>Public PR counts only · UTC · Updated daily by GitHub Actions</sub></p>
 </div>
 
 <div align="center">
