@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Sunnyweng&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 999, Total Commits  (last year) : 2327, Total PRs: 494, Total PRs Merged: 457, Total PRs Reviewed: 4, Total Issues: 66, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 1004, Total Commits  (last year) : 2327, Total PRs: 494, Total PRs Merged: 457, Total PRs Reviewed: 4, Total Issues: 66, Contributed to (last year): 11</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 13.376380340902337;
+        stroke-dashoffset: 13.347368406057656;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >999</text>
+      >1k</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
